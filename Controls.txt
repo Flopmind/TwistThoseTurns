@@ -4,5 +4,7 @@ Spacebar - start your ship moving
 
 Left Click/Left Ctrl - pull your ship to nearby blackholes
 
+R key - reset the level ( a little glitchy, sorry)
+
 
 Get to the flag to move on/win!
